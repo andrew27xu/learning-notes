@@ -1,6 +1,6 @@
 # Learning note for RLDP
 
-**Author**: Andrew Xu
+**Author**: And. X.
 
 ## Week 1
 
